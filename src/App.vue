@@ -162,7 +162,6 @@
               <h3 class="mb-0">University of Oulu</h3>
               <div class="subheading mb-3">Master of Science</div>
               <div>Software Engineering</div>
-              <p>Grade: Good</p>
             </div>
             <div class="resume-date text-md-right">
               <span class="text-primary">August 2016 - June 2018</span>
@@ -174,7 +173,6 @@
               <h3 class="mb-0">Technische Universität Kaiserslautern</h3>
               <div class="subheading mb-3">Master of Science</div>
               <div>Software Engineering</div>
-              <p>Gesamtnote: 2.5</p>
             </div>
             <div class="resume-date text-md-right">
               <span class="text-primary">October 2015 - May 2018</span>
@@ -186,7 +184,6 @@
               <h3 class="mb-0">Universitas Indonesia</h3>
               <div class="subheading mb-3">Bachelor of Computer Science</div>
               <div>Software Engineering</div>
-              <p>GPA: 3.26</p>
             </div>
             <div class="resume-date text-md-right">
               <span class="text-primary">August 2007 - August 2011</span>
@@ -200,64 +197,65 @@
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
         <div class="my-auto">
           <h2 class="mb-5">Skills</h2>
-
-          <div class="subheading mb-3">Programming Languages &amp; Tools</div>
-          <ul class="list-inline dev-icons">
-            <li class="list-inline-item">
-              <i class="fab fa-html5"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-css3-alt"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-js-square"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-angular"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-react"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-node-js"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-sass"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-less"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-wordpress"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-gulp"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-grunt"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-npm"></i>
-            </li>
-          </ul>
-
-          <div class="subheading mb-3">Workflow</div>
+          <div class="subheading mb-3">Tecnical Skills and Knowledge</div>
           <ul class="fa-ul mb-0">
             <li>
               <i class="fa-li fa fa-check"></i>
-              Web and Mobile Design
+              Java: Android
             </li>
             <li>
               <i class="fa-li fa fa-check"></i>
-              Software Quality Management
+              Javascript: React, Vue, Node (basic), Express (basic)
             </li>
             <li>
               <i class="fa-li fa fa-check"></i>
-              Usability Test
+              HTML5 and CSS
             </li>
             <li>
               <i class="fa-li fa fa-check"></i>
-              Agile Development &amp; Scrum
+              PHP: Laravel (basic)
+            </li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Data Analysis: Google Analytics, Tableau Public, IBM Watson (basic)
+            </li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Prototyping: Balsamiq, Axure RP, and Sketch
+            </li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Management: Scrum
+            </li>
+          </ul>
+          <p></p>
+          <p></p>
+
+          <div class="subheading mb-3">Languages</div>
+          <ul class="fa-ul mb-0">
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Java (native)
+            </li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Bahasa Indonesia (native)
+            </li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              English (fluent)
+            </li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Germany (intermediate - B1)
+            </li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Spanish (basic)
+            </li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Finnish (basic)
             </li>
           </ul>
         </div>
