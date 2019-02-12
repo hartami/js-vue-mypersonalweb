@@ -313,7 +313,7 @@ export default {
       address: "Kaiserslautern Germany",
       email: "apriliahartami@gmail.com",
       aboutMe:
-        "I am passionate about web and mobile development. I would like to deliver applications which are valuable to improve human lives, support business development, and create technology innovation."
+        "I am passionate about web and mobile development. I always want to deliver valuable applications which improve human lives, support business development, and create technology innovation."
     };
   },
   mounted() {
